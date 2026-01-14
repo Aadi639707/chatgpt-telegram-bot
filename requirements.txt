@@ -1,5 +1,6 @@
 pyTelegramBotAPI
 google-generativeai
+python-dotenv
 flask
 requests
-pillow
+Pillow
